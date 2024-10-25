@@ -1,0 +1,264 @@
+Providers loaded to the list.
+[CHARLES BROWN 6/24/1999, BRIDGEWATER, Somerset 08807][rate: $100.00]
+[JUSTIN CERAVOLO 9/22/1980, EDISON, Middlesex 08817][PEDIATRICIAN, #09]
+[MONICA FOX 10/10/1995, BRIDGEWATER, Somerset 08807][rate: $130.00]
+[JOHN HARPER 3/1/1981, CLARK, Union 07066][FAMILY, #32]
+[BEN JERRY 12/28/1977, PISCATAWAY, Middlesex 08854][FAMILY, #77]
+[BEN JERRY 9/28/1987, PISCATAWAY, Middlesex 08854][rate: $150.00]
+[GARY JOHNSON 12/13/1977, EDISON, Middlesex 08817][FAMILY, #85]
+[GARY JOHNSON 11/14/1987, PISCATAWAY, Middlesex 08854][rate: $110.00]
+[TOM KAUR 11/5/1972, PRINCETON, Mercer 08542][ALLERGIST, #54]
+[RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+[FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00]
+[ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+[JENNY PATEL 8/9/1991, BRIDGEWATER, Somerset 08807][rate: $125.00]
+[BEN RAMESH 4/8/1981, MORRISTOWN, Morris 07960][ALLERGIST, #39]
+[ERIC TAYLOR 5/29/1969, PISCATAWAY, Middlesex 08854][PEDIATRICIAN, #91]
+[MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+
+Rotation list for the technicians.
+JENNY PATEL (BRIDGEWATER) --> MONICA FOX (BRIDGEWATER) --> CHARLES BROWN (BRIDGEWATER) --> FRANK LIN (PISCATAWAY) --> BEN JERRY (PISCATAWAY) --> GARY JOHNSON (PISCATAWAY)
+
+Clinic Manager is running...
+
+
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Invalid command!
+Schedule calendar is empty.
+Schedule calendar is empty.
+Schedule calendar is empty.
+Schedule calendar is empty.
+Schedule calendar is empty.
+Schedule calendar is empty.
+Schedule calendar is empty.
+Appointment date: 11/31/2024 is not a valid calendar date 
+Appointment date: 11/31/2024 is not a valid calendar date 
+Appointment date: 13/30/2024 is not a valid calendar date 
+Appointment date: 13/30/2024 is not a valid calendar date 
+Appointment date: 0/30/2024 is not a valid calendar date 
+Appointment date: 0/30/2024 is not a valid calendar date 
+Appointment date: 12/0/2024 is not a valid calendar date 
+Appointment date: 12/0/2024 is not a valid calendar date 
+Appointment date: 2/30/2024 is not a valid calendar date 
+Appointment date: 2/30/2024 is not a valid calendar date 
+Appointment date: 2/29/2024 is today or a date before today.
+Appointment date: 2/29/2024 is today or a date before today.
+Appointment date: 11/9/2024 is Saturday or Sunday.
+Appointment date: 11/9/2024 is Saturday or Sunday.
+Appointment date: 12/8/2024 is Saturday or Sunday.
+Appointment date: 12/8/2024 is Saturday or Sunday.
+Appointment date: 6/30/2025 is not within six months.
+Appointment date: 6/30/2025 is not within six months.
+0 is not a valid time slot.
+A is not a valid time slot.
+13 is not a valid time slot.
+0 is not a valid time slot.
+B is not a valid time slot.
+13 is not a valid time slot.
+Patient dob: 1/32/1989 is not a valid calendar date 
+Patient dob: 1/0/1989 is not a valid calendar date 
+Patient dob: 0/31/1989 is not a valid calendar date 
+Patient dob: 13/31/1989 is not a valid calendar date 
+Patient dob: 2/29/1991 is not a valid calendar date 
+Patient dob: 12/25/2024 is today or a date after today.
+Patient dob: 1/32/1989 is not a valid calendar date 
+Patient dob: 1/0/1989 is not a valid calendar date 
+Patient dob: 0/31/1989 is not a valid calendar date 
+Patient dob: 13/31/1989 is not a valid calendar date 
+Patient dob: 2/29/1991 is not a valid calendar date 
+Patient dob: 12/25/2024 is today or a date after today.
+Missing data tokens.
+Missing data tokens.
+2/28/2025 9:00 AM John Doe 12/13/1989 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01] booked.
+John Doe 12/13/1989 has an existing appointment at the same time slot.
+120 - provider doesn't exist.
+AA - provider doesn't exist.
+[ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01] is not available at slot 1
+10/30/2024 4:30 PM Jane Doe 5/1/1996 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01] booked.
+10/30/2024 4:00 PM Jane Doe 5/1/1996 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23] booked.
+10/30/2024 2:00 PM Jane Doe 5/1/1996 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11] booked.
+10/30/2024 2:30 PM Jane Doe 5/1/1996 [JOHN HARPER 3/1/1981, CLARK, Union 07066][FAMILY, #32] booked.
+[RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23] is not available at slot 11
+[JOHN HARPER 3/1/1981, CLARK, Union 07066][FAMILY, #32] is not available at slot 8
+mri - imaging service not provided.
+2/28/2025 9:30 AM John Doe 12/13/1989 [JENNY PATEL 8/9/1991, BRIDGEWATER, Somerset 08807][rate: $125.00][XRAY] booked.
+John Doe 12/13/1989 has an existing appointment at the same time slot.
+2/28/2025 9:30 AM Jane Doe 5/1/1996 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][XRAY] booked.
+2/3/2025 10:00 AM John Doe 12/13/1989 [BEN JERRY 9/28/1987, PISCATAWAY, Middlesex 08854][rate: $150.00][ULTRASOUND] booked.
+2/3/2025 10:00 AM Jane Doe 5/1/1996 [JENNY PATEL 8/9/1991, BRIDGEWATER, Somerset 08807][rate: $125.00][ULTRASOUND] booked.
+Cannot find an available technician at all locations for ULTRASOUND at slot 3.
+2/3/2025 10:00 AM Kate Lindsey 7/15/2002 [MONICA FOX 10/10/1995, BRIDGEWATER, Somerset 08807][rate: $130.00][XRAY] booked.
+2/3/2025 10:00 AM April March 1/20/2003 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][XRAY] booked.
+2/3/2025 10:00 AM Roy Brook 2/29/2004 [GARY JOHNSON 11/14/1987, PISCATAWAY, Middlesex 08854][rate: $110.00][CATSCAN] booked.
+2/3/2025 10:00 AM Carl Brown 8/8/1999 [CHARLES BROWN 6/24/1999, BRIDGEWATER, Somerset 08807][rate: $100.00][CATSCAN] booked.
+2/3/2025 2:00 PM Duke Ellington 1/20/2003 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][CATSCAN] booked.
+2/3/2025 9:30 AM April March 1/20/2003 [BEN JERRY 9/28/1987, PISCATAWAY, Middlesex 08854][rate: $150.00][CATSCAN] booked.
+2/3/2025 11:30 AM Paul Siegel 5/1/2000 [GARY JOHNSON 11/14/1987, PISCATAWAY, Middlesex 08854][rate: $110.00][CATSCAN] booked.
+
+** List of radiology appointments ordered by county/date/time.
+2/3/2025 9:30 AM April March 1/20/2003 [BEN JERRY 9/28/1987, PISCATAWAY, Middlesex 08854][rate: $150.00][CATSCAN]
+2/3/2025 10:00 AM John Doe 12/13/1989 [BEN JERRY 9/28/1987, PISCATAWAY, Middlesex 08854][rate: $150.00][ULTRASOUND]
+2/3/2025 10:00 AM April March 1/20/2003 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][XRAY]
+2/3/2025 10:00 AM Roy Brook 2/29/2004 [GARY JOHNSON 11/14/1987, PISCATAWAY, Middlesex 08854][rate: $110.00][CATSCAN]
+2/3/2025 11:30 AM Paul Siegel 5/1/2000 [GARY JOHNSON 11/14/1987, PISCATAWAY, Middlesex 08854][rate: $110.00][CATSCAN]
+2/3/2025 2:00 PM Duke Ellington 1/20/2003 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][CATSCAN]
+2/28/2025 9:30 AM Jane Doe 5/1/1996 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][XRAY]
+2/3/2025 10:00 AM Carl Brown 8/8/1999 [CHARLES BROWN 6/24/1999, BRIDGEWATER, Somerset 08807][rate: $100.00][CATSCAN]
+2/3/2025 10:00 AM Jane Doe 5/1/1996 [JENNY PATEL 8/9/1991, BRIDGEWATER, Somerset 08807][rate: $125.00][ULTRASOUND]
+2/3/2025 10:00 AM Kate Lindsey 7/15/2002 [MONICA FOX 10/10/1995, BRIDGEWATER, Somerset 08807][rate: $130.00][XRAY]
+2/28/2025 9:30 AM John Doe 12/13/1989 [JENNY PATEL 8/9/1991, BRIDGEWATER, Somerset 08807][rate: $125.00][XRAY]
+** end of list **
+11/5/2024 9:00 AM Carl Brown 8/8/1999 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23] booked.
+11/5/2024 9:30 AM John Doe 1/13/1985 [TOM KAUR 11/5/1972, PRINCETON, Mercer 08542][ALLERGIST, #54] booked.
+12/11/2024 10:00 AM Kate Lindsey 7/15/2002 [ERIC TAYLOR 5/29/1969, PISCATAWAY, Middlesex 08854][PEDIATRICIAN, #91] booked.
+12/11/2024 10:30 AM April March 1/20/2003 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11] booked.
+1/17/2025 11:00 AM Duke Ellington 1/20/2003 [BEN RAMESH 4/8/1981, MORRISTOWN, Morris 07960][ALLERGIST, #39] booked.
+2/11/2025 11:30 AM Roy Brook 2/29/2004 [JUSTIN CERAVOLO 9/22/1980, EDISON, Middlesex 08817][PEDIATRICIAN, #09] booked.
+2/11/2025 2:00 PM Carl Brown 8/8/1999 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01] booked.
+2/11/2025 2:30 PM Paul Siegel 5/1/2000 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11] booked.
+10/29/2024 3:00 PM John Doe 1/13/1985 [TOM KAUR 11/5/1972, PRINCETON, Mercer 08542][ALLERGIST, #54] booked.
+12/30/2024 3:30 PM Paul Siegel 5/1/2000 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23] booked.
+12/2/2024 4:00 PM Paul Siegel 5/1/2000 [GARY JOHNSON 12/13/1977, EDISON, Middlesex 08817][FAMILY, #85] booked.
+12/16/2024 4:30 PM Jane Doe 2/28/1987 [GARY JOHNSON 12/13/1977, EDISON, Middlesex 08817][FAMILY, #85] booked.
+10/30/2024 11:30 AM April March 1/20/2003 [BEN JERRY 12/28/1977, PISCATAWAY, Middlesex 08854][FAMILY, #77] booked.
+11/5/2024 11:30 AM Kate Lindsey 7/15/2002 [BEN JERRY 12/28/1977, PISCATAWAY, Middlesex 08854][FAMILY, #77] booked.
+
+** List of office appointments ordered by county/date/time.
+10/29/2024 3:00 PM John Doe 1/13/1985 [TOM KAUR 11/5/1972, PRINCETON, Mercer 08542][ALLERGIST, #54]
+11/5/2024 9:30 AM John Doe 1/13/1985 [TOM KAUR 11/5/1972, PRINCETON, Mercer 08542][ALLERGIST, #54]
+10/30/2024 11:30 AM April March 1/20/2003 [BEN JERRY 12/28/1977, PISCATAWAY, Middlesex 08854][FAMILY, #77]
+11/5/2024 11:30 AM Kate Lindsey 7/15/2002 [BEN JERRY 12/28/1977, PISCATAWAY, Middlesex 08854][FAMILY, #77]
+12/2/2024 4:00 PM Paul Siegel 5/1/2000 [GARY JOHNSON 12/13/1977, EDISON, Middlesex 08817][FAMILY, #85]
+12/11/2024 10:00 AM Kate Lindsey 7/15/2002 [ERIC TAYLOR 5/29/1969, PISCATAWAY, Middlesex 08854][PEDIATRICIAN, #91]
+12/16/2024 4:30 PM Jane Doe 2/28/1987 [GARY JOHNSON 12/13/1977, EDISON, Middlesex 08817][FAMILY, #85]
+2/11/2025 11:30 AM Roy Brook 2/29/2004 [JUSTIN CERAVOLO 9/22/1980, EDISON, Middlesex 08817][PEDIATRICIAN, #09]
+1/17/2025 11:00 AM Duke Ellington 1/20/2003 [BEN RAMESH 4/8/1981, MORRISTOWN, Morris 07960][ALLERGIST, #39]
+10/30/2024 4:00 PM Jane Doe 5/1/1996 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+10/30/2024 4:30 PM Jane Doe 5/1/1996 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+11/5/2024 9:00 AM Carl Brown 8/8/1999 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+12/30/2024 3:30 PM Paul Siegel 5/1/2000 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+2/11/2025 2:00 PM Carl Brown 8/8/1999 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+2/28/2025 9:00 AM John Doe 12/13/1989 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+10/30/2024 2:00 PM Jane Doe 5/1/1996 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+10/30/2024 2:30 PM Jane Doe 5/1/1996 [JOHN HARPER 3/1/1981, CLARK, Union 07066][FAMILY, #32]
+12/11/2024 10:30 AM April March 1/20/2003 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+2/11/2025 2:30 PM Paul Siegel 5/1/2000 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+** end of list **
+Missing data tokens.
+2/3/2025 10:30 AM john doe 12/13/1989 - appointment does not exist.
+2/3/2025 10:00 AM john doe 12/13/1989 - appointment has been canceled.
+2/3/2025 10:00 AM JOHN DOE 12/13/1989 - appointment does not exist.
+11/5/2024 9:30 AM JOHN DOE 1/13/1985 - appointment has been canceled.
+11/5/2024 9:30 AM JOHN DOE 1/13/1985 - appointment does not exist.
+Missing data tokens.
+Rescheduled to 2/28/2025 2:00 PM John Doe 12/13/1989 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+2/28/2025 9:00 AM John Doe 12/13/1989 does not exist.
+Jane Doe 5/1/1996 has an existing appointment at 10/30/2024 4:00 PM
+Rescheduled to 10/30/2024 9:00 AM Jane Doe 5/1/1996 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+
+** List of appointments, ordered by date/time/provider.
+10/29/2024 3:00 PM John Doe 1/13/1985 [TOM KAUR 11/5/1972, PRINCETON, Mercer 08542][ALLERGIST, #54]
+10/30/2024 9:00 AM Jane Doe 5/1/1996 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+10/30/2024 11:30 AM April March 1/20/2003 [BEN JERRY 12/28/1977, PISCATAWAY, Middlesex 08854][FAMILY, #77]
+10/30/2024 2:00 PM Jane Doe 5/1/1996 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+10/30/2024 2:30 PM Jane Doe 5/1/1996 [JOHN HARPER 3/1/1981, CLARK, Union 07066][FAMILY, #32]
+10/30/2024 4:00 PM Jane Doe 5/1/1996 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+11/5/2024 9:00 AM Carl Brown 8/8/1999 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+11/5/2024 11:30 AM Kate Lindsey 7/15/2002 [BEN JERRY 12/28/1977, PISCATAWAY, Middlesex 08854][FAMILY, #77]
+12/2/2024 4:00 PM Paul Siegel 5/1/2000 [GARY JOHNSON 12/13/1977, EDISON, Middlesex 08817][FAMILY, #85]
+12/11/2024 10:00 AM Kate Lindsey 7/15/2002 [ERIC TAYLOR 5/29/1969, PISCATAWAY, Middlesex 08854][PEDIATRICIAN, #91]
+12/11/2024 10:30 AM April March 1/20/2003 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+12/16/2024 4:30 PM Jane Doe 2/28/1987 [GARY JOHNSON 12/13/1977, EDISON, Middlesex 08817][FAMILY, #85]
+12/30/2024 3:30 PM Paul Siegel 5/1/2000 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+1/17/2025 11:00 AM Duke Ellington 1/20/2003 [BEN RAMESH 4/8/1981, MORRISTOWN, Morris 07960][ALLERGIST, #39]
+2/3/2025 9:30 AM April March 1/20/2003 [BEN JERRY 9/28/1987, PISCATAWAY, Middlesex 08854][rate: $150.00][CATSCAN]
+2/3/2025 10:00 AM Carl Brown 8/8/1999 [CHARLES BROWN 6/24/1999, BRIDGEWATER, Somerset 08807][rate: $100.00][CATSCAN]
+2/3/2025 10:00 AM Kate Lindsey 7/15/2002 [MONICA FOX 10/10/1995, BRIDGEWATER, Somerset 08807][rate: $130.00][XRAY]
+2/3/2025 10:00 AM Roy Brook 2/29/2004 [GARY JOHNSON 11/14/1987, PISCATAWAY, Middlesex 08854][rate: $110.00][CATSCAN]
+2/3/2025 10:00 AM April March 1/20/2003 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][XRAY]
+2/3/2025 10:00 AM Jane Doe 5/1/1996 [JENNY PATEL 8/9/1991, BRIDGEWATER, Somerset 08807][rate: $125.00][ULTRASOUND]
+2/3/2025 11:30 AM Paul Siegel 5/1/2000 [GARY JOHNSON 11/14/1987, PISCATAWAY, Middlesex 08854][rate: $110.00][CATSCAN]
+2/3/2025 2:00 PM Duke Ellington 1/20/2003 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][CATSCAN]
+2/11/2025 11:30 AM Roy Brook 2/29/2004 [JUSTIN CERAVOLO 9/22/1980, EDISON, Middlesex 08817][PEDIATRICIAN, #09]
+2/11/2025 2:00 PM Carl Brown 8/8/1999 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+2/11/2025 2:30 PM Paul Siegel 5/1/2000 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+2/28/2025 9:30 AM Jane Doe 5/1/1996 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][XRAY]
+2/28/2025 9:30 AM John Doe 12/13/1989 [JENNY PATEL 8/9/1991, BRIDGEWATER, Somerset 08807][rate: $125.00][XRAY]
+2/28/2025 2:00 PM John Doe 12/13/1989 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+** end of list **
+
+** List of appointments, ordered by county/date/time.
+10/29/2024 3:00 PM John Doe 1/13/1985 [TOM KAUR 11/5/1972, PRINCETON, Mercer 08542][ALLERGIST, #54]
+10/30/2024 11:30 AM April March 1/20/2003 [BEN JERRY 12/28/1977, PISCATAWAY, Middlesex 08854][FAMILY, #77]
+11/5/2024 11:30 AM Kate Lindsey 7/15/2002 [BEN JERRY 12/28/1977, PISCATAWAY, Middlesex 08854][FAMILY, #77]
+12/2/2024 4:00 PM Paul Siegel 5/1/2000 [GARY JOHNSON 12/13/1977, EDISON, Middlesex 08817][FAMILY, #85]
+12/11/2024 10:00 AM Kate Lindsey 7/15/2002 [ERIC TAYLOR 5/29/1969, PISCATAWAY, Middlesex 08854][PEDIATRICIAN, #91]
+12/16/2024 4:30 PM Jane Doe 2/28/1987 [GARY JOHNSON 12/13/1977, EDISON, Middlesex 08817][FAMILY, #85]
+2/3/2025 9:30 AM April March 1/20/2003 [BEN JERRY 9/28/1987, PISCATAWAY, Middlesex 08854][rate: $150.00][CATSCAN]
+2/3/2025 10:00 AM Roy Brook 2/29/2004 [GARY JOHNSON 11/14/1987, PISCATAWAY, Middlesex 08854][rate: $110.00][CATSCAN]
+2/3/2025 10:00 AM April March 1/20/2003 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][XRAY]
+2/3/2025 11:30 AM Paul Siegel 5/1/2000 [GARY JOHNSON 11/14/1987, PISCATAWAY, Middlesex 08854][rate: $110.00][CATSCAN]
+2/3/2025 2:00 PM Duke Ellington 1/20/2003 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][CATSCAN]
+2/11/2025 11:30 AM Roy Brook 2/29/2004 [JUSTIN CERAVOLO 9/22/1980, EDISON, Middlesex 08817][PEDIATRICIAN, #09]
+2/28/2025 9:30 AM Jane Doe 5/1/1996 [FRANK LIN 6/24/1999, PISCATAWAY, Middlesex 08854][rate: $120.00][XRAY]
+1/17/2025 11:00 AM Duke Ellington 1/20/2003 [BEN RAMESH 4/8/1981, MORRISTOWN, Morris 07960][ALLERGIST, #39]
+10/30/2024 9:00 AM Jane Doe 5/1/1996 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+10/30/2024 4:00 PM Jane Doe 5/1/1996 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+11/5/2024 9:00 AM Carl Brown 8/8/1999 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+12/30/2024 3:30 PM Paul Siegel 5/1/2000 [RACHAEL LIM 11/30/1975, BRIDGEWATER, Somerset 08807][PEDIATRICIAN, #23]
+2/3/2025 10:00 AM Jane Doe 5/1/1996 [JENNY PATEL 8/9/1991, BRIDGEWATER, Somerset 08807][rate: $125.00][ULTRASOUND]
+2/3/2025 10:00 AM Carl Brown 8/8/1999 [CHARLES BROWN 6/24/1999, BRIDGEWATER, Somerset 08807][rate: $100.00][CATSCAN]
+2/3/2025 10:00 AM Kate Lindsey 7/15/2002 [MONICA FOX 10/10/1995, BRIDGEWATER, Somerset 08807][rate: $130.00][XRAY]
+2/11/2025 2:00 PM Carl Brown 8/8/1999 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+2/28/2025 9:30 AM John Doe 12/13/1989 [JENNY PATEL 8/9/1991, BRIDGEWATER, Somerset 08807][rate: $125.00][XRAY]
+2/28/2025 2:00 PM John Doe 12/13/1989 [ANDREW PATEL 1/21/1989, BRIDGEWATER, Somerset 08807][FAMILY, #01]
+10/30/2024 2:00 PM Jane Doe 5/1/1996 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+10/30/2024 2:30 PM Jane Doe 5/1/1996 [JOHN HARPER 3/1/1981, CLARK, Union 07066][FAMILY, #32]
+12/11/2024 10:30 AM April March 1/20/2003 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+2/11/2025 2:30 PM Paul Siegel 5/1/2000 [MONICA ZIMNES 3/11/1981, CLARK, Union 07066][FAMILY, #11]
+** end of list **
+
+** Credit amount ordered by provider. **
+(1) CHARLES BROWN 6/24/1999 [credit amount: $100.00]
+(2) JUSTIN CERAVOLO 9/22/1980 [credit amount: $300.00]
+(3) MONICA FOX 10/10/1995 [credit amount: $130.00]
+(4) JOHN HARPER 3/1/1981 [credit amount: $250.00]
+(5) BEN JERRY 12/28/1977 [credit amount: $500.00]
+(6) BEN JERRY 9/28/1987 [credit amount: $150.00]
+(7) GARY JOHNSON 12/13/1977 [credit amount: $500.00]
+(8) GARY JOHNSON 11/14/1987 [credit amount: $220.00]
+(9) TOM KAUR 11/5/1972 [credit amount: $350.00]
+(10) RACHAEL LIM 11/30/1975 [credit amount: $900.00]
+(11) FRANK LIN 6/24/1999 [credit amount: $360.00]
+(12) ANDREW PATEL 1/21/1989 [credit amount: $750.00]
+(13) JENNY PATEL 8/9/1991 [credit amount: $250.00]
+(14) BEN RAMESH 4/8/1981 [credit amount: $350.00]
+(15) ERIC TAYLOR 5/29/1969 [credit amount: $300.00]
+(16) MONICA ZIMNES 3/11/1981 [credit amount: $750.00]
+** end of list **
+
+** Billing statement ordered by patient. **
+(1) Roy Brook 2/29/2004 [due: $410.00]
+(2) Carl Brown 8/8/1999 [due: $650.00]
+(3) Jane Doe 2/28/1987 [due: $250.00]
+(4) Jane Doe 5/1/1996 [due: $1,295.00]
+(5) John Doe 1/13/1985 [due: $350.00]
+(6) John Doe 12/13/1989 [due: $375.00]
+(7) Duke Ellington 1/20/2003 [due: $470.00]
+(8) Kate Lindsey 7/15/2002 [due: $680.00]
+(9) April March 1/20/2003 [due: $770.00]
+(10) Paul Siegel 5/1/2000 [due: $910.00]
+** end of list **
+Schedule calendar is empty.
+Clinic Manager terminated.
